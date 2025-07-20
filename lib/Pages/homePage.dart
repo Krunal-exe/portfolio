@@ -41,15 +41,15 @@ class _HomepageState extends State<Homepage> {
             body: Column(
               children: [
                 Center(
-                      child: Padding(
-                        padding: const EdgeInsets.only(left: 30.0, right: 30),
-                        child: Container(
-                          height: 35,
-                          // padding: EdgeInsets.only(right: 30, left: 30),
-                          decoration: BoxDecoration(
-                            color: Colors.black,
-                            borderRadius: BorderRadius.circular(30),
-                          ),
+                  child: Padding(
+                    padding: const EdgeInsets.only(left: 30.0, right: 30),
+                    child: Container(
+                      height: 35,
+                      // padding: EdgeInsets.only(right: 30, left: 30),
+                      decoration: BoxDecoration(
+                        color: Colors.black,
+                        borderRadius: BorderRadius.circular(30),
+                      ),
                           child: TabBar(
                             enableFeedback: false,
                             labelPadding: EdgeInsets.symmetric(horizontal: 10),

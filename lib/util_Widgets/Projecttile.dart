@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:krunal_portfolio/data/projectDta.dart';
 import 'package:krunal_portfolio/util_Widgets/color.dart';
 import 'package:krunal_portfolio/util_Widgets/languageTile.dart';
 

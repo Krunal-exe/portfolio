@@ -27,7 +27,6 @@ class Utftext extends StatelessWidget {
         fontWeight: fontWeight,
         decoration: Textdecor,
       ),
-
     );
   }
 }
